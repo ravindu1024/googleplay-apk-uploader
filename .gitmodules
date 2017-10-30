@@ -1,0 +1,3 @@
+[submodule "android-play-publisher-api"]
+	path = android-play-publisher-api
+	url = https://github.com/googlesamples/android-play-publisher-api.git
