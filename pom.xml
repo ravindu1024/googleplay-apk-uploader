@@ -160,6 +160,7 @@
     </properties>
 
     <build>
+        <sourceDirectory>android-play-publisher-api/v2/java/src</sourceDirectory>
         <finalName>${project.artifactId}</finalName>
         <plugins>
             <plugin>
